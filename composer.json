@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-composer",
+    "name": "ommu/yii2-composer",
     "description": "The composer plugin for Yii extension installer",
     "keywords": ["yii2", "composer", "extension installer"],
     "type": "composer-plugin",
